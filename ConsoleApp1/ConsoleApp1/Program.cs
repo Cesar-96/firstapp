@@ -36,7 +36,7 @@ namespace ConsoleApp1
                     weightOnOther = weightOnEarth * 0.48;
                     break;
             }
-            Console.WriteLine("Your weight on that planet is {}", weightOnOther);
+            Console.WriteLine("Your weight on that planet is {0}", weightOnOther);
         }
 
     }
